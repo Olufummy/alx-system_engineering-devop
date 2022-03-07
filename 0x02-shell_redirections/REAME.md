@@ -1,1 +1,0 @@
-1-to create a script that print a hello world and a new line to the standard output.
